@@ -1,0 +1,3 @@
+﻿  overlap server.cpp
+C:\Development\book_source\Exercise\window_programming\windows_programming_vs2019\window_programming_vs2019\window_programming_vs2019\overlap server.cpp(323,14): warning C4477: 'wprintf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'HANDLE'입니다.
+  window_programming_vs2019.vcxproj -> C:\Development\book_source\Exercise\window_programming\windows_programming_vs2019\window_programming_vs2019\Debug\window_programming_vs2019.exe
