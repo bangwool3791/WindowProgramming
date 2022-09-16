@@ -16,10 +16,22 @@
     <Filter Include="소스 파일\IPC">
       <UniqueIdentifier>{95968db5-dd29-4d22-ac2b-e22922ce60f4}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\completion_routione_file">
+      <UniqueIdentifier>{83ae950b-6776-4260-b105-5d3021abd4aa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\nonBlocking_fileIOErr">
+      <UniqueIdentifier>{f244c740-af98-4c29-b99c-b297df534620}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="overlap client.cpp">
       <Filter>소스 파일\IPC</Filter>
+    </ClCompile>
+    <ClCompile Include="completion_routione_file.cpp">
+      <Filter>소스 파일\completion_routione_file</Filter>
+    </ClCompile>
+    <ClCompile Include="nonBlocking_fileIOErr.cpp">
+      <Filter>소스 파일\nonBlocking_fileIOErr</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
