@@ -13,16 +13,22 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-    <Filter Include="소스 파일\IPC">
+    <Filter Include="IPC">
       <UniqueIdentifier>{87438210-7ffc-4c0b-850e-63b8de8bf1c2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Timer">
+      <UniqueIdentifier>{8f23153e-91e3-4425-87de-9404e00749da}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="overlap server.cpp">
-      <Filter>소스 파일\IPC</Filter>
+      <Filter>IPC</Filter>
     </ClCompile>
     <ClCompile Include="overlap client.cpp">
-      <Filter>소스 파일\IPC</Filter>
+      <Filter>IPC</Filter>
+    </ClCompile>
+    <ClCompile Include="Timer.cpp">
+      <Filter>Timer</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
