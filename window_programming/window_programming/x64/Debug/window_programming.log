@@ -1,8 +1,2 @@
-﻿  XCpoy.c
-c:\books\exercise\window_programming\window_programming\window_programming\xcpoy.c(45): warning C4047: '초기화 중': 'DWORD'의 간접 참조 수준이 'void *'과(와) 다릅니다.
-c:\books\exercise\window_programming\window_programming\window_programming\xcpoy.c(68): warning C4013: '_getws'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
-c:\books\exercise\window_programming\window_programming\window_programming\xcpoy.c(440): warning C4098: 'XCOPY': 'void' 함수에서 값을 반환하고 있습니다.
-c:\books\exercise\window_programming\window_programming\window_programming\xcpoy.c(463): warning C4098: 'XCOPY': 'void' 함수에서 값을 반환하고 있습니다.
-c:\books\exercise\window_programming\window_programming\window_programming\xcpoy.c(430): warning C4047: '초기화 중': 'BOOL'의 간접 참조 수준이 'void *'과(와) 다릅니다.
-c:\books\exercise\window_programming\window_programming\window_programming\xcpoy.c(468): warning C4047: '초기화 중': 'BOOL'의 간접 참조 수준이 'void *'과(와) 다릅니다.
-  window_programming.vcxproj -> C:\books\Exercise\window_programming\window_programming\x64\Debug\window_programming.exe
+﻿  SYSTEM_INFO.cpp
+  window_programming.vcxproj -> C:\Development\book_source\Exercise\window_programming\window_programming\x64\Debug\window_programming.exe
