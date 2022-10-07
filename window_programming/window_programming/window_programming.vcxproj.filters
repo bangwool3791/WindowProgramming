@@ -40,6 +40,9 @@
     <Filter Include="소스 파일\19. 비동기I/O와 APC\SYSTEM_INFO">
       <UniqueIdentifier>{6d3605e2-f455-4361-a311-741077e8eb81}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\20. 메모리관리">
+      <UniqueIdentifier>{53bd3602-5407-437c-a3c8-dcbc9edc27c8}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="window_programming.cpp">
@@ -176,6 +179,15 @@
     </ClCompile>
     <ClCompile Include="SYSTEM_INFO.cpp">
       <Filter>소스 파일\19. 비동기I/O와 APC\SYSTEM_INFO</Filter>
+    </ClCompile>
+    <ClCompile Include="DynamicArray.cpp">
+      <Filter>소스 파일\20. 메모리관리</Filter>
+    </ClCompile>
+    <ClCompile Include="DynamicHeap.cpp">
+      <Filter>소스 파일\20. 메모리관리</Filter>
+    </ClCompile>
+    <ClCompile Include="HINKED_HEAP.cpp">
+      <Filter>소스 파일\20. 메모리관리</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
