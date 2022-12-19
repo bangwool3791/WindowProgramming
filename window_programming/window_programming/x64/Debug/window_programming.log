@@ -1,2 +1,12 @@
-﻿  DynamicHeap.cpp
-  window_programming.vcxproj -> C:\Development\book_source\Exercise\window_programming\window_programming\x64\Debug\window_programming.exe
+﻿  SwapLibTest.cpp
+d:\window_programming\window_programming\window_programming\swaplibtest.cpp(11): warning C4002: 함수 같은 매크로 호출 '_T'에 대해 인수가 너무 많습니다.
+d:\window_programming\window_programming\window_programming\swaplibtest.cpp(11): warning C4473: 'printf': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+  d:\window_programming\window_programming\window_programming\swaplibtest.cpp(11): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 2개 필요하지만 0개가 제공되었습니다.
+  d:\window_programming\window_programming\window_programming\swaplibtest.cpp(11): note: 누락된 variadic 인수 1이(가) 서식 문자열 '%d'에 필요합니다.
+d:\window_programming\window_programming\window_programming\swaplibtest.cpp(13): warning C4002: 함수 같은 매크로 호출 '_T'에 대해 인수가 너무 많습니다.
+d:\window_programming\window_programming\window_programming\swaplibtest.cpp(13): warning C4473: 'printf': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+  d:\window_programming\window_programming\window_programming\swaplibtest.cpp(13): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 2개 필요하지만 0개가 제공되었습니다.
+  d:\window_programming\window_programming\window_programming\swaplibtest.cpp(13): note: 누락된 variadic 인수 1이(가) 서식 문자열 '%d'에 필요합니다.
+SwapStaticLib.lib(pch.obj) : warning LNK4099: 'SwapStaticLib.pdb' PDB를 'SwapStaticLib.lib(pch.obj)' 또는 'D:\window_programming\window_programming\x64\Debug\SwapStaticLib.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+SwapStaticLib.lib(swap.obj) : warning LNK4099: 'SwapStaticLib.pdb' PDB를 'SwapStaticLib.lib(swap.obj)' 또는 'D:\window_programming\window_programming\x64\Debug\SwapStaticLib.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+  window_programming.vcxproj -> D:\window_programming\window_programming\x64\Debug\window_programming.exe

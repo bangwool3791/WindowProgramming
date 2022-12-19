@@ -43,6 +43,9 @@
     <Filter Include="소스 파일\20. 메모리관리">
       <UniqueIdentifier>{53bd3602-5407-437c-a3c8-dcbc9edc27c8}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\21. DynamicLinking">
+      <UniqueIdentifier>{9b6eb60b-52ef-43f4-bf5a-74444093211d}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="window_programming.cpp">
@@ -188,6 +191,18 @@
     </ClCompile>
     <ClCompile Include="HINKED_HEAP.cpp">
       <Filter>소스 파일\20. 메모리관리</Filter>
+    </ClCompile>
+    <ClCompile Include="LINKED_HEAP.cpp">
+      <Filter>소스 파일\20. 메모리관리</Filter>
+    </ClCompile>
+    <ClCompile Include="MemoryMappedFileRead.cpp">
+      <Filter>소스 파일\20. 메모리관리</Filter>
+    </ClCompile>
+    <ClCompile Include="MemoryMappredFileSort.cpp">
+      <Filter>소스 파일\20. 메모리관리</Filter>
+    </ClCompile>
+    <ClCompile Include="SwapLibTest.cpp">
+      <Filter>소스 파일\21. DynamicLinking</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
